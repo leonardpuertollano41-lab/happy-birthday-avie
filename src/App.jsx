@@ -3,19 +3,19 @@ import "./App.css";
 
 const photos = [
   {
-    src: "public/image/download (15).jpg",
+    src: "/image/download (15).jpg",
     caption: "HAHAHHAAHHA peace yarn 💗",
   },
   {
-    src: "/public/image/download (2).jpg",
+    src: "/image/download (2).jpg",
     caption: "nigga yarn? ✨",
   },
   {
-    src: "/public/image/download (12).jpg",
+    src: "/image/download (12).jpg",
     caption: "Ang cute mo dito baby",
   },
   {
-    src: "/public/image/download (10).jpg",
+    src: "/image/download (10).jpg",
     caption: "Posa mo baby",
   },
 ];
